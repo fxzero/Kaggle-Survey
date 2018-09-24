@@ -23,7 +23,7 @@ For this project, I was interestested in using Kaggle ML and Data Science Survey
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@fxzero/how-do-you-become-a-good-data-scientist-c2473e688557).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
