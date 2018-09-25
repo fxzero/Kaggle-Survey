@@ -27,6 +27,7 @@ Here are the results of this survey：
 1. There are many ways to further data science learning. Kaggle is a good choice, with Coursera for online courses and KDnuggets for blogs.
 2. For tools and skills, Python is undoubtedly the most important . In terms of skills, statistics and visualization need to be emphasized. In terms of tools, SQL and Unix skills are indispensable.
 3. Data processing makes it difficult for data scientists and takes most of their time.
+
 The main findings of the code can be found at the post available [here](https://medium.com/@fxzero/how-do-you-become-a-good-data-scientist-c2473e688557).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
